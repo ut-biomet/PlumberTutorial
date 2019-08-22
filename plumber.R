@@ -392,7 +392,7 @@ function(id){
 #* @get /predictIris
 function(SepalLength, SepalWidth, PetalLength, PetalWidth){
 
-  load("irisKNNmodel.Rdata")
+  load("data/irisKNNmodel.Rdata")
 
   newdata <- data.frame(
     Sepal.Length = as.numeric(SepalLength),
