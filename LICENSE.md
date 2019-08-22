@@ -1,2 +1,2 @@
 
-Copyright (C) 2019 Julien Diot
+Copyright (C) 2019 The University of Tokyo.
