@@ -6,4 +6,16 @@ This repository is a tutorial to start with this R package. A lot of examples an
 
 This repository also includes an example API `plumber.R`, including all the cases study from the tutorial. This API is accessible from the lab network at the address: http://192.168.101.44:8080 (you can try by accessing to this address from your web browser: http://192.168.101.44:8080/__swagger__/)
 
+## Repository organisation
+
+### Tutorial files:
+
+The tutorial files are: `PlumberTuto.html` and `PlumberTuto.rmd` (images of the tutorial are stored in the `src` folder)
+
+### Example API:
+
+This folder contain the example API's code.
+
+## Copyright
+
 Copyright (C) 2019 The University of Tokyo.
