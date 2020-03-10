@@ -32,4 +32,5 @@ method <- "knn"
   trControl = trControl))
 ggplot(irisKNNmodel, metric = "Accuracy")
 
-save(irisKNNmodel, file = "irisKNNmodel.Rdata")
+save(irisKNNmodel, file = "data/irisKNNmodel.Rdata")
+load("data/irisKNNmodel.Rdata")
