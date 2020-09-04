@@ -1,5 +1,7 @@
 # PlumberTutorial
 
+You can consult the tutorial online at the address: https://ut-biomet.github.io/PlumberTutorial/
+
 `plumber` is an R package that converts your existing R code to a web API using a handful of special one-line comments.
 
 This repository is a tutorial to start with this R package. A lot of examples and explanations come from [the official documentation](https://www.rplumber.io/docs/) and [this article](https://rviews.rstudio.com/2018/07/23/rest-apis-and-plumber/) from R view.
@@ -15,7 +17,8 @@ You can try by accessing to this address from your web browser:
 
 ### Tutorial files:
 
-The tutorial files are: `PlumberTuto.html` and `PlumberTuto.rmd` (images of the tutorial are stored in the `src` folder)
+The tutorial files are: `index.html` and `index.rmd` (images of the tutorial are stored in the `src` folder).
+
 
 ### Example API:
 
